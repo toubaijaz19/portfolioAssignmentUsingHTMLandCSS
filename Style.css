@@ -1,0 +1,51 @@
+
+
+body{
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+	font-family: 'New Tegomin', serif;
+}
+
+.container{
+	background: black;
+	color: aliceblue;
+	width: 40%;
+	height: 200%;
+	padding: 15px 35px 15px 35px;
+	margin: 0;
+}
+h1{
+	font-size: 70px;
+	margin: 0 0 0.1em 0;
+	font-family: 'Coiny', cursive;
+}
+h2,h4{
+	background: lightblue;
+	color: black;
+	padding: 6px;
+	margin-bottom: 3px;
+	border-radius: 3px;
+	width: fit-content;
+}
+ul,p{
+	margin-top: 2px;
+}
+#bg{
+	background: lightblue;
+	width: fit-content;
+	padding: 4px;
+	border-radius: 4px;
+}
+a{
+	text-decoration: none;
+}
+.imageToobi{
+	float: right;
+	border-radius: 50%;
+	margin: 100px;
+}
+iframe{
+	margin: 10px;
+	align-items: center;
+}
